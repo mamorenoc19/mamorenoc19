@@ -1,4 +1,4 @@
-# Hi there, Wellcome to my space! 👋
+# Hi there, Wellcome to my space!✌🏾
 
 - 🔭 I’m currently working on django, python, html and css
 - 🌱 I’m currently learning javascript, react, flutter
