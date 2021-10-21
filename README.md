@@ -4,9 +4,11 @@
 - 🌱 I’m currently learning javascript, react, flutter
 - 💬 Ask me about anything!
 - 📫 How to reach me: mamorenoc2@gmail.com
-- ⚡ Fun fact: Before I wanted to study architecture, but now I am 2 years away from graduating in systems engineering🤣🤣🤣
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mamorenoc19&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorenoc19&theme=highcontrast)
+- ⚡ Fun fact: Before I wanted to study architecture, but now I am 2 years away 
+               from graduating in systems engineering🤣🤣🤣
+               
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mamorenoc19&show_icons=true&hide=contribs&theme=great-gatsby) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=great-gatsby)
 
 
 
