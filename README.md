@@ -8,7 +8,7 @@
                from graduating in systems engineering🤣🤣🤣
                
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mamorenoc19&show_icons=true&hide=contribs&theme=great-gatsby) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorenoc19&layout=compact&theme=great-gatsby)
 
 
 
